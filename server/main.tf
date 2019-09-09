@@ -1,4 +1,8 @@
 provider "aws" {
+<<<<<<< HEAD
+=======
+  # MODIFY this line to look for 2.27.0 or greater
+>>>>>>> 35bbc30fe06ced4cc732276d606a4fd14d182600
   version = ">= 2.27.0"
 }
 
